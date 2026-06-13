@@ -25,7 +25,7 @@ College  : Erode Sengunthar Engineering College
 Degree   : B.Tech — AI & Data Science  |  CGPA: 7.0  |  2023–2027
 Role     : DevOps Intern @ CubeAI Solutions Tech Pvt Ltd (Nov 2025 – Feb 2026)
 Focus    : Docker · Jenkins · Terraform · AWS · Azure · CI/CD
-Learning : Kubernetes ☸️ · Ansible · Advanced AWS
+Learning : Kubernetes ☸️ 
 ```
 
 ---
@@ -120,12 +120,11 @@ Also on Azure → [365-calenda](https://github.com/Arulraj25/365-calenda)
 
 | Category | Tools & Technologies |
 |---|---|
-| **CI/CD** | Jenkins · GitHub Actions · GitFlow |
+| **CI/CD** | Jenkins · GitHub Actions |
 | **Containers** | Docker · Docker Compose · Kubernetes *(learning)* |
 | **Cloud** | AWS (EC2, IAM, S3) · Azure (ADF, Databricks, Synapse, Data Lake) |
 | **IaC** | Terraform · Linux/Bash Scripting |
-| **Languages** | Python · SQL · JavaScript · Bash |
-| **Frameworks** | Flask · Selenium · Pandas |
+| **Languages** | Python · SQL · JavaScript |
 | **Data & BI** | Power BI · Databricks · PySpark · MySQL · MongoDB |
 
 ---
@@ -146,7 +145,6 @@ Also on Azure → [365-calenda](https://github.com/Arulraj25/365-calenda)
 |---|---|
 | 🎓 **B.Tech — AI & Data Science** | Erode Sengunthar Engineering College · 2023–2027 · CGPA 7.0 |
 | 📗 **HSC — Computer Science** | Mangalam HRS School, Anthiyur · 2022–2023 |
-| 📘 **SSLC** | Mangalam HRS School, Anthiyur · 2020–2021 |
 
 ---
 
