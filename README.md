@@ -130,26 +130,6 @@ Also on Azure → [365-calenda](https://github.com/Arulraj25/365-calenda)
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arulraj25&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=6366F1&icon_color=6366F1" height="170"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arulraj25&layout=donut&theme=tokyonight&hide_border=true&title_color=6366F1&langs_count=6" height="170"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=Arulraj25&theme=tokyonight&hide_border=true&ring=6366F1&fire=f59e0b&currStreakLabel=6366F1"/>
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arulraj25&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=6&no-bg=true"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
